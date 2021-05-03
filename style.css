@@ -12,4 +12,6 @@ body
 .main_div
 {
     background-color: rgb(54, 167, 219);
+    width: 75%;
+    border-radius: 5%
 }
