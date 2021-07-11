@@ -1,17 +1,23 @@
 body
 {
-    background-color: rgb(106, 200, 243);
+    background-size: cover; 
 }
 
-.header_div
+.heading
 {
-    font-family: cursive;
-    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
 }
 
-.main_div
+.photos
 {
-    background-color: rgb(54, 167, 219);
-    width: 75%;
-    border-radius: 5%
+    width: 100px;
+}
+
+h2
+{
+    font-weight: bold;
 }
